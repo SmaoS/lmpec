@@ -1,0 +1,28 @@
+ 
+  .table-fixed {
+    width: 100% ; 
+ }
+  .table-fixed tbody {
+    height: 300px;
+    overflow-y: auto;
+    width: 100%;
+ }
+  .table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+    display: block;
+ }
+  .table-fixed tbody td {
+    float: left;
+ }
+  .table-productos thead tr th {       
+    background-color: #f39c12;
+    border-color: #e67e22;
+ }
+.formulario-editar{
+  width: 300px;
+  margin: 0 auto;
+  background-color: #75a4ff;
+
+  border: 5px solid #4a00ff;
+  border-radius: 5px;
+}
+ 
